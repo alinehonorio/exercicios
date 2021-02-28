@@ -15,9 +15,9 @@ public class Exercicio1 {
 		
 		boolean primeiroNumeroMaior = x > y;
 		if (primeiroNumeroMaior) {
-			System.out.println(String.format("O número maior é: %s ", x));
+			System.out.println("O nÃºmero maior Ã©: %s " + x);
 		} else {
-			System.out.println(String.format("O número maior é: %s ", y));
+			System.out.println("O nÃºmero maior Ã©: %s " + y);
 		}
 	}
 
